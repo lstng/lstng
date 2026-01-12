@@ -3,7 +3,7 @@
 
 <body>
 
-<h1 align="center">Hi, I'm Hanna</h1>
+<h1 align="center">Hy there, this is Hanna</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joannaWebDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Front-end+engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Product+engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 <h2>About Me</h2>
 
 <p>
-My expertise lies in harnessing the power of Vue, React and Typescript to create convenient, fast, and beautiful interfaces. I actively stay abreast of industry trends and best practices through LinkedIn Learning, Udemy courses, constantly refining my skills. Furthermore, I consistently engage in personal projects, leveraging my knowledge to explore new concepts and technologies.
+I build fast, beautiful, and intuitive interfaces using Vue, React, and TypeScript. I love experimenting with new technologies and constantly refine my skills through courses on LinkedIn Learning and Udemy, as well as hands-on personal projects.
 </p>
 
 <p>
-As a dedicated Product Engineer, I lead the development, design, and implementation of software solutions. My role encompasses various stages of the product lifecycle, including conception, design, development, testing, deployment, and ongoing support.
+As a Product Engineer, I dive into every stage of the software lifecycle—from idea and design to development, testing, deployment, and ongoing improvements. My focus is on creating solutions that are both user-friendly and technically robust.
 </p>
 
 <hr/>
