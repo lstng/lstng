@@ -26,7 +26,7 @@ I build fast, beautiful, and intuitive interfaces using Vue, React, and TypeScri
 </p>
 
 <p>
-As a Product Engineer, I dive into every stage of the software lifecycle—from idea and design to development, testing, deployment, and ongoing improvements. My focus is on creating solutions that are both user-friendly and technically robust.
+As a Product Engineer, I dive into every stage of the software lifecycle: from idea and design to development, testing, deployment, and ongoing improvements. My focus is on creating solutions that are both user-friendly and technically robust.
 </p>
 
 <hr/>
