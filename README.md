@@ -3,7 +3,7 @@
 
 <body>
 
-<h1 align="center">Hy there, this is Hanna</h1>
+<h1 align="center">Hy there</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joannaWebDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
